@@ -11,7 +11,7 @@ function App() {
       <MyNav></MyNav>
       <div className="container mt-3">
         <Welcome></Welcome>
-        <AllTheBooks genre="fantasy"></AllTheBooks>
+        <AllTheBooks></AllTheBooks>
       </div>
       <MyFooter></MyFooter>
     </div>
